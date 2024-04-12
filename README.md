@@ -1,5 +1,7 @@
 # LLM Code Challenge
 
+This repository contains a typical code challenge for an ML Engineer / Data Scientist position with a focus on NLP.
+
 ## Requirements
 - Python 3
 - Pip
